@@ -11,3 +11,18 @@
 	
 }
 
+/*.carousel-inner img {
+  margin: auto;
+}
+*/
+.active {
+  background-color: #777;
+}
+
+.second{
+    background-color: #777;
+}
+
+.third {
+    background-color: #777;
+}
