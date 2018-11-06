@@ -3,7 +3,7 @@
 }
 
 .d-block{
-	max-height: 500px;
+	max-height: 1000px;
 }
 
 .btn-group{
@@ -11,10 +11,7 @@
 	
 }
 
-/*.carousel-inner img {
-  margin: auto;
-}
-*/
+
 .active {
   background-color: #777;
 }
